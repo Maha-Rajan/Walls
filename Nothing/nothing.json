@@ -1,1 +1,43 @@
-
+      [{    
+            "name": "Wallpaper 1",
+		"author": "Nothing",
+		"url": "https://raw.githubusercontent.com/missyraja/Nothing_wallpaper/main/wallpaper1.png",
+		"dimensions": "1242x2760",
+            "copyright": "Credits to its creator"
+	},
+      {    
+            "name": "Wallpaper 2",
+		"author": "Nothing",
+		"url": "https://raw.githubusercontent.com/missyraja/Nothing_wallpaper/main/wallpaper2.png",
+		"dimensions": "1242x2760",
+            "copyright": "Credits to its creator"
+	},
+	{    
+            "name": "Wallpaper 3",
+		"author": "Nothing",
+		"url": "https://raw.githubusercontent.com/missyraja/Nothing_wallpaper/main/wallpaper3.png",
+		"dimensions": "1242x2760",
+            "copyright": "Credits to its creator"
+	},
+      {    
+            "name": "Wallpaper 4",
+		"author": "Nothing",
+		"url": "https://raw.githubusercontent.com/missyraja/Nothing_wallpaper/main/wallpaper4.png",
+		"dimensions": "1242x2760",
+            "copyright": "Credits to its creator"
+	},
+      {    
+            "name": "Wallpaper 5",
+		"author": "Nothing",
+		"url": "https://raw.githubusercontent.com/missyraja/Nothing_wallpaper/main/wallpaper5.png",
+		"dimensions": "648x1440",
+            "copyright": "Credits to its creator"
+	},
+	{    
+            "name": "Wallpaper 6",
+		"author": "Nothing",
+		"url": "https://raw.githubusercontent.com/missyraja/Nothing_wallpaper/main/wallpaper6.png",
+		"dimensions": "648x1440",
+            "copyright": "Credits to its creator"
+	}
+]
