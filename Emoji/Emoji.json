@@ -4,7 +4,7 @@
 		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0001.png",
 		"dimensions": "1080 x 2400",
 		"copyright": "Free for personal use",
-		"collections": "Comic,Emotions"
+		"collections": "Comic,Emotions,Naughty"
 	},
 	{
 		"name": "0002",
@@ -12,7 +12,7 @@
 		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0002.png",
 		"dimensions": "1080 x 2400",
 		"copyright": "Free for personal use",
-		"collections": "Abstract,Geometric,Symbols"
+		"collections": "Abstract,Shapes & Patterns,Symbols"
 	},
   {
 		"name": "0003",
@@ -28,7 +28,7 @@
 		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0004.png",
 		"dimensions": "1080 x 2400",
 		"copyright": "Free for personal use",
-		"collections": "Abstract,Geometric,Symbols"
+		"collections": "Abstract,Shapes & Patterns,Symbols"
 	},
   {
 		"name": "0005",
@@ -36,7 +36,7 @@
 		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0005.png",
 		"dimensions": "1080 x 2400",
 		"copyright": "Free for personal use",
-		"collections": "Abstract,Geometric,Symbols"
+		"collections": "Abstract,Shapes & Patterns,Symbols"
 	},
   {
 		"name": "0006",
@@ -60,7 +60,7 @@
 		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0008.png",
 		"dimensions": "1080 x 2400",
 		"copyright": "Free for personal use",
-		"collections": "Abstract,Geometric,Symbols"
+		"collections": "Abstract,Shapes & Patterns,Symbols"
 	},
   {
 		"name": "0009",
@@ -68,7 +68,7 @@
 		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0009.png",
 		"dimensions": "1080 x 2400",
 		"copyright": "Free for personal use",
-		"collections": "Food"
+		"collections": "Food, Minimalist"
 	},
   {
 		"name": "0010",
@@ -76,6 +76,246 @@
 		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0010.png",
 		"dimensions": "1080 x 2400",
 		"copyright": "Free for personal use",
-		"collections": "Emotions"
+		"collections": "Emotions, Smileys"
+	},
+{
+		"name": "0011",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0011.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Shapes & Patterns, Minimalist"
+	},
+{
+		"name": "0012",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0012.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Minimalist,Food"
+	},
+  {
+		"name": "0013",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0013.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Minimalist,Food"
+	},
+  {
+		"name": "0014",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0014.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Shapes & Patterns, Smileys"
+	},
+  {
+		"name": "0015",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0015.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Shapes & Patterns"
+	},
+  {
+		"name": "0016",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0016.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Shapes & Patterns"
+	},
+  {
+		"name": "0017",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0017.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Food"
+	},
+  {
+		"name": "0018",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0018.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Food"
+	},
+  {
+		"name": "0019",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0019.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Shapes & Patterns, Abstract"
+	},
+  {
+		"name": "0020",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0020.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Emotions,Love, Symbols & Patterns"
+	},
+  {
+		"name": "0021",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0021.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Emotions,Love, Symbols & Patterns"
+	},
+  {
+		"name": "0022",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0022.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Food"
+	},
+  {
+		"name": "0023",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0023.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Food"
+	},
+  {
+		"name": "0024",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0024.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Symbols & Patterns"
+	},
+  {
+		"name": "0025",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0025.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Symbols & Patterns"
+	},
+  {
+		"name": "0026",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0026.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Food"
+	},
+  {
+		"name": "0027",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0027.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Music, Emotions"
+	},
+  {
+		"name": "0028",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0028.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Nature, Birds"
+	},
+  {
+		"name": "0029",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0029.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Comic"
+	},
+  {
+		"name": "0030",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0030.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Emotions,Smileys"
+	},
+  {
+		"name": "0031",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0031.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Symbols"
+	},
+  {
+		"name": "0032",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0032.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Shapes & Patterns,Minimalist"
+	},
+  {
+		"name": "0033",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0033.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Flowers,Minimalist"
+	},
+  {
+		"name": "0034",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0034.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Nature,Bugs"
+	},
+  {
+		"name": "0035",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0035.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Birds,Nature"
+	},
+  {
+		"name": "0036",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0036.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Food"
+	},
+  {
+		"name": "0037",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0037.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Minimalist,Emotions,Smileys"
+	},
+  {
+		"name": "0038",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0038.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Symbols"
+	},
+  {
+		"name": "0039",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0039.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Shapes & Patterns, Abstract"
+	},
+  {
+		"name": "0040",
+		"author": "Space Dust",
+		"url": "https://raw.githubusercontent.com/Maha-Rajan/Walls/main/Emoji/0040.png",
+		"dimensions": "1080 x 2400",
+		"copyright": "Free for personal use",
+		"collections": "Comic"
 	}
 ]
